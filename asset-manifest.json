@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.49fa5106.chunk.css",
+    "main.js": "/portfolio/static/js/main.187dc99e.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.187dc99e.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.fac0025d.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.fac0025d.js.map",
+    "static/js/2.e127755c.chunk.js": "/portfolio/static/js/2.e127755c.chunk.js",
+    "static/js/2.e127755c.chunk.js.map": "/portfolio/static/js/2.e127755c.chunk.js.map",
+    "static/js/3.972b9191.chunk.js": "/portfolio/static/js/3.972b9191.chunk.js",
+    "static/js/3.972b9191.chunk.js.map": "/portfolio/static/js/3.972b9191.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "static/css/main.49fa5106.chunk.css.map": "/portfolio/static/css/main.49fa5106.chunk.css.map",
+    "static/js/2.e127755c.chunk.js.LICENSE.txt": "/portfolio/static/js/2.e127755c.chunk.js.LICENSE.txt",
+    "static/media/backlogTracker.063e1ffb.PNG": "/portfolio/static/media/backlogTracker.063e1ffb.PNG",
+    "static/media/chatApp.fe5f2ea3.png": "/portfolio/static/media/chatApp.fe5f2ea3.png",
+    "static/media/houschef.e6088b37.PNG": "/portfolio/static/media/houschef.e6088b37.PNG",
+    "static/media/portfolio.59e8a7cd.PNG": "/portfolio/static/media/portfolio.59e8a7cd.PNG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fac0025d.js",
+    "static/js/2.e127755c.chunk.js",
+    "static/css/main.49fa5106.chunk.css",
+    "static/js/main.187dc99e.chunk.js"
+  ]
+}
